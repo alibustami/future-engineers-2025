@@ -2,4 +2,7 @@ smbus
 adafruit-circuitpython-tcs34725
 # board
 adafruit-circuitpython-lis3dh
-mpu6050-raspberrypi
+isort
+ahrs
+"picamera[array]"
+opencv-contrib-python
